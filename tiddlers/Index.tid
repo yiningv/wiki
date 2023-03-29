@@ -1,4 +1,12 @@
 created: 20230104152413814
-modified: 20230104152413814
+creator: 宁
+icon: 🌱
+modified: 20230329055225249
+modifier: 宁
+page-cover: https://images.unsplash.com/photo-1487700160041-babef9c3cb55
 title: Index
 type: text/vnd.tiddlywiki
+
+<<reuse-tiddler "快速创建新笔记按钮">>
+
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/GitHubHeatMap.js"  $height="200px" subfilter="[!is[shadow]!is[system]!field:calendarEntry[yes]]" />
